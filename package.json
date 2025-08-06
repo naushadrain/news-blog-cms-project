@@ -1,9 +1,9 @@
 {
-  "name": "news-blog-cms-project",
+  "name": "inity",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
@@ -21,5 +21,17 @@
     "multer": "^2.0.2",
     "nodemon": "^3.1.10",
     "slugify": "^1.6.6"
-  }
+  },
+  "description": "this is my first node js blog project",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naushadrain/news-blog-cms-project.git"
+  },
+  "author": "Mohammad Naushad Rain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naushadrain/news-blog-cms-project/issues"
+  },
+  "homepage": "https://github.com/naushadrain/news-blog-cms-project#readme"
 }
